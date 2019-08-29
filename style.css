@@ -45,6 +45,11 @@ h2 {
     float: right;
 }
 
+.link-item:a {
+    float: right;
+    color: gray;
+}
+
 h3 {
     font-size: 18px;
     color: teal;
@@ -60,7 +65,7 @@ h4 {
     margin: 0px;
     padding: 0px;
 }
- 
+
 p {
     font-size: 16px;
     margin: 0px;
